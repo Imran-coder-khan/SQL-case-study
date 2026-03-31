@@ -27,3 +27,5 @@ GROUP BY & HAVING
 Subqueries
 Data Type Casting (money → numeric)
 Filtering using LIKE operator
+
+<img src="https://github.com/Imran-coder-khan/SQL-case-study/blob/023a5b3b532a7276712051f1452ae3190671968e/Screenshot%202026-03-31%20175154.png" alt="image description" width="600">
